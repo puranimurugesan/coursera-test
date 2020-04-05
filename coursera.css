@@ -1,0 +1,21 @@
+div.content{
+	background-color:#87ceeb;
+	top: 10px;
+	height: 170px;
+	width:350px;
+	border:5px solid #000;
+	float: left;
+	margin: 20px;
+	padding: 10px;
+	display: flex
+	
+}
+div.content .box h2{
+	text-align: right;
+	top: 0px;
+}
+h1{
+	font-weight: solid;
+	text-align: center;
+	background-color: 
+}
